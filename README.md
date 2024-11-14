@@ -1,4 +1,4 @@
 # odin-recipies
 
 First Odin project !
-Litle pdate on Linux Mint !
+Little pdate on Linux Mint !
